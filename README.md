@@ -19,3 +19,7 @@
 <li>Developed the Home and Cart page. </li>
 <li>Built the wishlist page.</li>
   </ul>
+  
+  <h3>Screenshots</h3>
+  
+
